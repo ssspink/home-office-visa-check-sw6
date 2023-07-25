@@ -1,0 +1,68 @@
+2023-07-25 16:07:751 INFO  ManageBrowser :29 - Chrome Browser Launch.....
+2023-07-25 16:07:877 INFO  ManageBrowser :41 - Browser is maximize.....
+2023-07-25 16:07:332 INFO  StartPage :23 - Accept the cookies
+2023-07-25 16:07:402 INFO  StartPage :25 - Click on start button
+2023-07-25 16:07:668 INFO  SelectNationalityPage :23 - Select nationality
+2023-07-25 16:07:757 INFO  SelectNationalityPage :28 - Click next step button
+2023-07-25 16:07:932 INFO  ReasonForTravelPage :33 - Select reason for Australia
+2023-07-25 16:07:96 INFO  SelectNationalityPage :28 - Click next step button
+2023-07-25 16:07:316 INFO  ResultPage :33 - Get result message of tourism
+2023-07-25 16:07:132 INFO  ManageBrowser :49 - Browser is close.....
+2023-07-25 16:07:497 INFO  ManageBrowser :29 - Chrome Browser Launch.....
+2023-07-25 16:07:623 INFO  ManageBrowser :41 - Browser is maximize.....
+2023-07-25 16:07:205 INFO  StartPage :23 - Accept the cookies
+2023-07-25 16:07:266 INFO  StartPage :25 - Click on start button
+2023-07-25 16:07:544 INFO  SelectNationalityPage :23 - Select nationality
+2023-07-25 16:07:619 INFO  SelectNationalityPage :28 - Click next step button
+2023-07-25 16:07:837 INFO  ReasonForTravelPage :38 - Select reason for Chile
+2023-07-25 16:07:994 INFO  SelectNationalityPage :28 - Click next step button
+2023-07-25 16:07:172 INFO  DurationOfStayPage :35 - Select more than 6 months
+2023-07-25 16:07:284 INFO  SelectNationalityPage :28 - Click next step button
+2023-07-25 16:07:462 INFO  WorkTypePage :24 - Select job type
+2023-07-25 16:07:582 INFO  SelectNationalityPage :28 - Click next step button
+2023-07-25 16:07:802 INFO  ResultPage :28 - Get result message of health care
+2023-07-25 16:07:609 INFO  ManageBrowser :49 - Browser is close.....
+2023-07-25 16:07:87 INFO  ManageBrowser :29 - Chrome Browser Launch.....
+2023-07-25 16:07:218 INFO  ManageBrowser :41 - Browser is maximize.....
+2023-07-25 16:07:780 INFO  StartPage :23 - Accept the cookies
+2023-07-25 16:07:863 INFO  StartPage :25 - Click on start button
+2023-07-25 16:07:135 INFO  SelectNationalityPage :23 - Select nationality
+2023-07-25 16:07:217 INFO  SelectNationalityPage :28 - Click next step button
+2023-07-25 16:07:381 INFO  ReasonForTravelPage :43 - Select reason for Colombia
+2023-07-25 16:07:559 INFO  SelectNationalityPage :28 - Click next step button
+2023-07-25 16:07:770 INFO  ResultPage :38 - Get result message of family stay
+2023-07-25 16:07:561 INFO  ManageBrowser :49 - Browser is close.....
+2023-07-25 20:07:439 INFO  ManageBrowser :29 - Chrome Browser Launch.....
+2023-07-25 20:07:610 INFO  ManageBrowser :41 - Browser is maximize.....
+2023-07-25 20:07:31 INFO  StartPage :23 - Accept the cookies
+2023-07-25 20:07:312 INFO  StartPage :25 - Click on start button
+2023-07-25 20:07:212 INFO  SelectNationalityPage :23 - Select nationality
+2023-07-25 20:07:589 INFO  SelectNationalityPage :28 - Click next step button
+2023-07-25 20:07:933 INFO  ReasonForTravelPage :33 - Select reason for Australia
+2023-07-25 20:07:622 INFO  SelectNationalityPage :28 - Click next step button
+2023-07-25 20:07:452 INFO  ResultPage :33 - Get result message of tourism
+2023-07-25 20:07:73 INFO  ManageBrowser :49 - Browser is close.....
+2023-07-25 20:07:341 INFO  ManageBrowser :29 - Chrome Browser Launch.....
+2023-07-25 20:07:595 INFO  ManageBrowser :41 - Browser is maximize.....
+2023-07-25 20:07:240 INFO  StartPage :23 - Accept the cookies
+2023-07-25 20:07:508 INFO  StartPage :25 - Click on start button
+2023-07-25 20:07:802 INFO  SelectNationalityPage :23 - Select nationality
+2023-07-25 20:07:129 INFO  SelectNationalityPage :28 - Click next step button
+2023-07-25 20:07:528 INFO  ReasonForTravelPage :38 - Select reason for Chile
+2023-07-25 20:07:253 INFO  SelectNationalityPage :28 - Click next step button
+2023-07-25 20:07:683 INFO  DurationOfStayPage :35 - Select more than 6 months
+2023-07-25 20:07:191 INFO  SelectNationalityPage :28 - Click next step button
+2023-07-25 20:07:544 INFO  WorkTypePage :24 - Select job type
+2023-07-25 20:07:103 INFO  SelectNationalityPage :28 - Click next step button
+2023-07-25 20:07:525 INFO  ResultPage :28 - Get result message of health care
+2023-07-25 20:07:301 INFO  ManageBrowser :49 - Browser is close.....
+2023-07-25 20:07:391 INFO  ManageBrowser :29 - Chrome Browser Launch.....
+2023-07-25 20:07:742 INFO  ManageBrowser :41 - Browser is maximize.....
+2023-07-25 20:07:797 INFO  StartPage :23 - Accept the cookies
+2023-07-25 20:07:360 INFO  StartPage :25 - Click on start button
+2023-07-25 20:07:807 INFO  SelectNationalityPage :23 - Select nationality
+2023-07-25 20:07:216 INFO  SelectNationalityPage :28 - Click next step button
+2023-07-25 20:07:619 INFO  ReasonForTravelPage :43 - Select reason for Colombia
+2023-07-25 20:07:149 INFO  SelectNationalityPage :28 - Click next step button
+2023-07-25 20:07:553 INFO  ResultPage :38 - Get result message of family stay
+2023-07-25 20:07:83 INFO  ManageBrowser :49 - Browser is close.....
